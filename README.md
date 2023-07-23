@@ -18,8 +18,10 @@ Este programa cuenta las lineas existentes en un archivo java, para esta entrega
 
 1. Clone el repositorio a su maquina local de la siguiente manera: git clone https://github.com/franciscoMarquezBocanegra/INTRODUCTION-TO-JAVA-MVN-AND-GIT-LOC-COUNTING.
 2. Desde el cmd navegue hasta el directorio donde clono el repositorio y ejecute el comando mvn package.
-3. Ejecute las pruebas que se tienen ya hechas en el directorio test con los siguientes comandos: 1) java -cp "./target/classes/" edu.escuelaing.arsw.App loc src/test/java/edu/escuelaing/arsw/prueba1.java        
-                                                                                                  2) java -cp "./target/classes/" edu.escuelaing.arsw.App loc src/test/java/edu/escuelaing/arsw/prueba.java 
+3. Ejecute las pruebas que se tienen ya hechas en el directorio test con los siguientes comandos: 
+
+  3.1) java -cp "./target/classes/" edu.escuelaing.arsw.App loc src/test/java/edu/escuelaing/arsw/prueba1.java        
+  3.2) java -cp "./target/classes/" edu.escuelaing.arsw.App loc src/test/java/edu/escuelaing/arsw/prueba.java 
 
 # Resultados
 
